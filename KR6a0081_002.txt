@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:24.467378
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:33
 #+TITLE: 分別善惡報應經
 #+PROPERTY: CBETA_ID T01n0081
 #+PROPERTY: ID KR6a0081
